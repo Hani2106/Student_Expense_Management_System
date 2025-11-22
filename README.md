@@ -76,6 +76,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-🙋‍♂️ Author
-
-Made with ❤️ by Meet Moliya
+❤️Author : Hani Patel
+LinkedIN: http://linkedin.com/in/hani-patel-6a9370265
+Email: hanipatel0621@gmail.com
