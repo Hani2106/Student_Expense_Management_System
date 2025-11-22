@@ -31,18 +31,15 @@ A simple web-based application designed for students to manage and track their i
 
 
 ### 🔐 Login Page  
-![Login Page](assets/login.jpeg)
+<img width="1280" height="735" alt="image" src="https://github.com/user-attachments/assets/36ce8999-790e-47e4-8e89-fbd7da462788" />
+
 
 ### 📊 Dashboard with PieChart
-![Dashboard](assets/pi_chart.jpeg)
+<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/cf05f3b6-46e0-468c-a60a-01f5a7519a11" />
+
 
 ### ➕ Add Transaction  
-![Add Expense](assets/transcation.jpeg)
-
-### 📅 Calender 
-![Calender](assests/calender.jpeg)
-
-
+<img width="1280" height="664" alt="image" src="https://github.com/user-attachments/assets/aabc1ba2-c6d6-43ff-9471-01ddd74aa42f" />
 ---
 
 ## 🧑‍💻 Getting Started
